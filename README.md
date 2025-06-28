@@ -20,11 +20,11 @@
 
 ## 1. Project Overview and Objectives
 
-The **DABEL project** is an initiative led by NASA and the international community. It aims to establish an industrial base at the Sun–Earth **L4 Lagrange point (EL4)** and to mine the metal-rich asteroid **16 Psyche** (code-named **JL4**). The ultimate goal is to construct a massive space-based energy infrastructure in the form of a **Dyson Swarm**, thereby building a robust space industry in orbit and supplementing Earth’s energy supply in the long term.
+The DABEL project is a **hypothetical initiative**, proposed as a joint effort potentially led by NASA and the international community. It envisions establishing an industrial base at the Sun–Earth L4 Lagrange point (EL4) and mining the metal-rich asteroid 16 Psyche (code-named JL4). The ultimate goal of this hypothetical scenario is to construct a large-scale space-based energy infrastructure in the form of a Dyson Swarm, thereby creating a robust orbital space industry capable of supplementing Earth’s energy supply in the long term.
 
-Project funding comes primarily from public sources (NASA and an international consortium), but the plan is to recoup the investment by selling the mined metal resources to private companies. In other words, while governments fund the initial development and deployment, valuable metals extracted from the asteroid will be sold commercially to generate revenue and pay back the costs.
+In this scenario, initial project funding would primarily come from public sources (such as NASA and a potential international consortium). The plan would be to recoup the investment through commercial sales of the mined metal resources to private companies. In other words, while governments and public institutions would hypothetically fund the initial development and deployment, the valuable metals extracted from the asteroid would ideally be sold commercially to generate revenue and recover costs.
 
-This plan has been designed to remain within the realm of technological feasibility, striving for maximum realism. It includes conceptual explanations to help the general public understand the ideas, while still maintaining technical rigor and detail.
+This conceptual proposal has been structured within the bounds of current and foreseeable technological capabilities, striving for realism. It includes clear explanations designed to help the general public understand the concepts, while still maintaining technical accuracy and detail.
 
 ## 2. Background and Necessity
 
